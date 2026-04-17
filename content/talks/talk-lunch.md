@@ -9,7 +9,7 @@ stage: stage-main
 resources:
   - url: "#"
     description: PDF
-    icon: lucide:github
+    icon: lucide:file-text
 ---
 
 Enjoy a selection of color-coordinated foods. Please do not touch the walls.

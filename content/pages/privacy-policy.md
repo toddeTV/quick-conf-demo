@@ -9,7 +9,8 @@ description: Data protection information
 
 ## Data Collection
 
-We do not collect any real user data on this demo instance.
+This demo does not intentionally collect attendee profile or payment data at the application level.<br>
+Technical data (e.g., server/CDN logs) may still be processed by the hosting provider.
 
 ## Cookies
 

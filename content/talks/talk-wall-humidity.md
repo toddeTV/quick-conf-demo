@@ -22,4 +22,4 @@ resources:
     icon: lucide:file-text
 ---
 
-Sherwin demonstrates his unique sensory technique for evaluating substrate readiness. Do not try this at home.
+Glossy Gloria demonstrates her unique sensory technique for evaluating substrate readiness. Do not try this at home.

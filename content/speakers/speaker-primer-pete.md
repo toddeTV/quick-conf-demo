@@ -10,4 +10,4 @@ socialMedia:
     icon: simple-icons:github
 ---
 
-Its all about the base coat for Pete. If you dont prime, you are wasting your time. That is his motto, and he has it tattooed on his arm.
+It's all about the base coat for Pete. If you don't prime, you are wasting your time. That is his motto, and he has it tattooed on his arm.

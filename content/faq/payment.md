@@ -14,7 +14,7 @@ We recommend managing your tickets visually using **Nuxt Studio**.
 
 1. Open your project in Nuxt Studio.
 2. Navigate to the **Tickets** collection.
-3. Edit your tickets and set the `To` field in the button section to your external ticket provider URL (e.g., Stripe Payment Link, Eventbrite, Tito).
+3. Edit your tickets and set the `to` field in the button section to your external ticket provider URL (e.g., Stripe Payment Link, Eventbrite, Tito).
 
 ## Free Events
 

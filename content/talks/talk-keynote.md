@@ -14,4 +14,4 @@ resources:
     icon: lucide:link
 ---
 
-In this keynote, Matt explores the meditative properties of observing phase changes in latex-based emulsions. Learn how to slow down your life to the speed of evaporation.
+In this keynote, Sherwin Williams and Dr. Benjamin Moore explore the meditative properties of observing phase changes in latex-based emulsions. Learn how to slow down your life to the speed of evaporation.
