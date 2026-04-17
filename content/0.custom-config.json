@@ -8,41 +8,80 @@
       "column1": {
         "links": [
           {
-            "name": "Link 1",
-            "url": "/"
+            "name": "Apply as Speaker",
+            "url": "/faq/cfp"
+          },
+          {
+            "name": "Become a Sponsor",
+            "url": "/faq/sponsoring"
+          },
+          {
+            "name": "Code of Conduct",
+            "url": "/faq/code-of-conduct"
+          },
+          {
+            "name": "Location",
+            "url": "/faq/location"
           }
         ],
-        "title": "Links"
+        "title": "Community"
       },
       "column2": {
         "links": [
           {
             "icon": "lucide:github",
-            "name": "quick-conf",
+            "name": "Template Documentation",
+            "url": "https://github.com/toddeTV/quick-conf/tree/main/docs"
+          },
+          {
+            "icon": "lucide:github",
+            "name": "GitHub Repository",
             "url": "https://github.com/toddeTV/quick-conf"
+          },
+          {
+            "icon": "simple-icons:x",
+            "name": "Follow the Author",
+            "url": "https://x.com/toddeTV"
           }
         ],
-        "title": "Template"
+        "title": "About This Template"
       },
       "column4": {
-        "socials": []
+        "socials": [
+          {
+            "name": "toddeTV",
+            "url": "https://x.com/toddeTV"
+          },
+          {
+            "name": "toddeTV",
+            "url": "https://bsky.app/profile/todde.tv"
+          },
+          {
+            "name": "toddeTV",
+            "url": "https://www.linkedin.com/in/toddetv/"
+          },
+          {
+            "name": "toddeTV",
+            "url": "https://github.com/toddeTV/"
+          }
+        ]
       }
     }
   },
   "general": {
     "colorMode": "both",
     "conferenceFoundingYear": 2025,
-    "conferenceName": "quick-conf-demo",
+    "conferenceName": "Quick Conf",
     "favicon": {
-      "dark": "",
-      "light": ""
+      "dark": "/assets/favicon/favicon.svg",
+      "light": "/assets/favicon/favicon.svg"
     },
     "logo": {
-      "dark": "",
-      "light": ""
+      "dark": "/assets/logo/dark.svg",
+      "light": "/assets/logo/light.svg"
     },
-    "siteUrl": "https://example.com",
-    "timeZone": "UTC"
+    "siteUrl": "https://quick-conf.com",
+    "timeZone": "Europe/Amsterdam"
   },
   "nuxtStudio": {
     "i18n": {
@@ -50,9 +89,9 @@
     },
     "repository": {
       "branch": "main",
-      "owner": "",
+      "owner": "toddeTV",
       "provider": "github",
-      "repo": ""
+      "repo": "quick-conf-demo"
     }
   },
   "nuxtUI": {
@@ -60,5 +99,12 @@
       "neutral": "slate",
       "primary": "green"
     }
+  },
+  "ogImage": {
+    "bgDark": "#0f172a",
+    "bgLight": "#ffffff",
+    "primary": "#22c55e",
+    "textDark": "#94a3b8",
+    "textLight": "#64748b"
   }
 }
